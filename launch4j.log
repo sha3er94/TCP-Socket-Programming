@@ -1,0 +1,28 @@
+
+
+Version:	3.6
+CmdLine:	C:\Users\Mohamed El-Shaer\Documents\Handasa\Term 7\Computer Networks\GUI\GUI\TCP Socket Programming.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Mohamed El-Shaer\Documents\Handasa\Term 7\Computer Networks\GUI\GUI\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_25\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_05
+Check launcher:	C:\Program Files\Java\jre8\bin\javaw.exe (OK)
+Match:		1.8.0_05
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_25
+Check launcher:	C:\Program Files\Java\jre1.8.0_25\bin\javaw.exe (OK)
+Match:		1.8.0_25
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_05
+Ignore:		1.8.0_05
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_25
+Ignore:		1.8.0_25
+Runtime used:	1.8.0_25 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_25\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Mohamed El-Shaer\Documents\Handasa\Term 7\Computer Networks\GUI\GUI\TCP Socket Programming.exe"
+Args length:	110/32768 chars
+Exit code:	0
